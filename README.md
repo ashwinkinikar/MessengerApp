@@ -11,7 +11,7 @@ Welcome to Awesome Chat App! This is a simple yet powerful chat application buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/awesome-chat-app.git
+   git clone https://github.com/your-username/MessengerApp.git
    ```
    
 2. Navigate to the project directory:
