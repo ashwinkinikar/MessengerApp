@@ -2,7 +2,7 @@
 
 **Description:**
 
-ChatApp is a React-based web application that facilitates real-time communication between users. It features user authentication, allowing users to log in or sign up for an account. Once authenticated, users can engage in chat conversations within the application.
+ChatApp is a NodeJs-ReactJs based  application that facilitates real-time communication between users. It features user authentication, allowing users to log in or sign up for an account. Once authenticated, users can engage in chat conversations within the application.
 
 **How to Use:**
 
