@@ -53,15 +53,6 @@ ChatApp is a React-based web application that facilitates real-time communicatio
    ```
 5. Open your browser and navigate to `http://localhost:3000` to use the application.
 
-**Contributing:**
-
-Contributions are encouraged! Please follow the guidelines below:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/new-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/new-feature`)
-6. Create a new Pull Request
 
 **Note:** Replace HOST_NAME in the curl requests with the appropriate host where the Flask application is running.
 
