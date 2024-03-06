@@ -65,12 +65,12 @@ To run this project locally, you need to have Node.js installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/awesome-chat-app.git
+   git clone https://github.com/your-username/MessengerApp.git
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd awesome-chat-app
+   cd MessengerApp
    ```
 
 3. Install dependencies:
