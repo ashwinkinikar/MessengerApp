@@ -1,7 +1,7 @@
 Sure, here's an example of an attractive GitHub README.md file for your project:
 
 ```markdown
-# Awesome Chat App
+# Messenger App
 
 Welcome to Awesome Chat App! This is a simple yet powerful chat application built with React, Express, and Chat Engine, allowing users to easily communicate with each other in real-time.
 
