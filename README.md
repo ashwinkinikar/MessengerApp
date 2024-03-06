@@ -16,7 +16,7 @@ Welcome to Awesome Chat App! This is a simple yet powerful chat application buil
    
 2. Navigate to the project directory:
    ```bash
-   cd awesome-chat-app
+   cd MessengerApp
    ```
 
 3. Install dependencies for both frontend and backend:
@@ -28,6 +28,35 @@ Welcome to Awesome Chat App! This is a simple yet powerful chat application buil
    ```
 
 4. Set up environment variables:
+
+## Set Up Environment Variables
+
+To run this application, you need to create an account on [ChatEngine.io](https://www.chatengine.io/) to obtain the necessary credentials.
+
+1. **Sign up for an account**:
+   - Go to [ChatEngine.io](https://www.chatengine.io/) and sign up for a new account.
+
+2. **Create a new project**:
+   - Once logged in, create a new project in the ChatEngine dashboard.
+
+3. **Get Project ID and Private Key**:
+   - After creating the project, you'll be provided with a Project ID and a Private Key. These credentials are required for the backend server to communicate with ChatEngine.
+
+4. **Set up environment variables**:
+   - In the `frontend` directory of your project, create a `.env` file and add the following:
+     ```
+     REACT_APP_CHAT_ENGINE_PROJECT_ID=your_chat_engine_project_id
+     ```
+   - In the `backend` directory, create a `.env` file and add the following:
+     ```
+     CHAT_ENGINE_PROJECT_ID=your_chat_engine_project_id
+     CHAT_ENGINE_PRIVATE_KEY=your_chat_engine_private_key
+     ```
+
+5. **Replace placeholders**:
+   - Replace `your_chat_engine_project_id` and `your_chat_engine_private_key` with the actual Project ID and Private Key obtained from your ChatEngine.io dashboard.
+
+
    - In the `frontend` directory, create a `.env` file and add the following:
      ```
      REACT_APP_CHAT_ENGINE_PROJECT_ID=your_chat_engine_project_id
